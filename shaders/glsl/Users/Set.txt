@@ -277,7 +277,7 @@
 #define SUNLIGHT_A 14.0
 #define MOOCOL vec3(1.0000, 1.0000, 1.0000)
 #define MOOLIGHT_A 0.2
-#define POICOL vec3(1.0000, 0.0000, 1.0000)
+#define POICOL vec3(0.6000, 1.1000, 0.9000)
 #define POILIGHT_A 14.0
 #define ENVCOL vec3(1.0000, 1.0000, 1.0000)
 #define ENVLIGHT_A 0.01
